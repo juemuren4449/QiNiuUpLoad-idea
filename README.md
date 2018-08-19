@@ -12,10 +12,8 @@
 ## 截图
 ![image](GIF.gif)
 ## 开发工具
-Eclipse + WindowBuilder
+idea
 ## 下载
-[七牛上传工具.exe](https://github.com/juemuren4449/QiNiuUpLoad/blob/master/%E4%B8%83%E7%89%9B%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7.exe?raw=true)
-
-[七牛上传工具.jar](https://github.com/juemuren4449/QiNiuUpLoad/blob/master/%E4%B8%83%E7%89%9B%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7.jar?raw=true)
+[七牛上传工具.jar](https://github.com/juemuren4449/QiNiuUpLoad-idea/blob/master/QiNiuUpLoad.jar?raw=true)
 ## 联系方式
 邮箱：juemuren_dev@163.com
